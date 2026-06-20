@@ -1,65 +1,59 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=%3E+Initializing+profile...;%3E+Loading+Amlaach...;%3E+Welcome+to+The+Angel's+GitHub+Profile" />
+# שלום לכם, הגעתם לפרופיל של
 
 # ✨ המלאך | Amlaach ✨
 
-### AI • LLM • Semantic Search • Open Source
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=%3E+whoami;%D7%94%D7%9E%D7%9C%D7%90%D7%9A+(Amlaach);%3E+specialization;AI+%7C+LLM+%7C+Semantic+Search;%3E+current+project;Smart+Torah;%3E+status;Building+the+future..." />
 
 </div>
 
 ---
 
-```console
-Amlaach@github:~$ whoami
+## 👋 קצת עליי
 
-שם: המלאך
-GitHub: @Amlaach
-
-תחומי התמחות:
-✓ Python
-✓ HTML
-✓ Large Language Models (LLM)
-✓ Artificial Intelligence (AI)
-✓ Semantic Search
-✓ Vector Search
-
-לומד כעת:
-→ Rust
-```
+- 🐍 מתמחה ב־Python
+- 🌐 מתמחה ב־HTML
+- 🦀 לומד Rust
 
 ---
 
-## 🚀 אודותיי
+## 🤖 תחומי התמחות
 
-אני מפתח המתמקד בעולם הבינה המלאכותית, מודלי שפה גדולים (LLM),
-ומערכות חיפוש סמנטי מבוססות וקטורים.
-
-אני משתמש ב־Kaggle לצורך אימון והרצת מודלים,
-וחוקר דרכים לשלב AI במערכות תוכנה מורכבות.
-
-אני מאמין שבינה מלאכותית היא כלי רב־עוצמה שנועד לסייע למהנדסי תוכנה,
-להעצים את יכולותיהם ולהגדיל את הפרודוקטיביות שלהם — לא להחליף אותם.
+- Large Language Models (LLM)
+- Artificial Intelligence (AI)
+- חיפוש סמנטי (Semantic Search)
+- חיפוש וקטורי (Vector Search)
+- Embeddings
+- Retrieval Systems
 
 ---
 
-## 🌟 פרויקט הדגל
+## 🚀 סביבת העבודה שלי
 
-### Smart Torah
-
-תוכנת עימוד תורנית בקוד פתוח.
-
-מטרת הפרויקט היא לפתח מנוע עימוד מתקדם,
-המסוגל להתמודד עם ספרים תורניים מורכבים ברמה מקצועית,
-תוך שימוש בטכנולוגיות מודרניות וביכולות אוטומציה חכמות.
+- משתמש ב־Kaggle לאימון מודלים
+- עוסק בפיתוח וחקירה של מערכות AI מתקדמות
+- מאמין שבינה מלאכותית נועדה להעצים מהנדסי תוכנה ולא להחליף אותם
 
 ---
 
-## 🤝 תרומה לקוד פתוח
+## 📖 הפרויקטים שלי
+
+### 🌟 Smart Torah
+
+פרויקט הדגל שלי.
+
+תוכנת עימוד תורנית בקוד פתוח, שמטרתה לספק יכולות עימוד מתקדמות ומודרניות לספרים תורניים מורכבים.
+
+---
+
+### 🤝 תרומה לקוד פתוח
 
 במקביל אני משתדל לסייע לפרויקט:
 
-### :contentReference[oaicite:0]{index=0}
+### 🚀 Otzaria (אוצריא)
+
+https://github.com/otzaria
 
 בשעות הפנאי, ככל שמתאפשר.
 
@@ -68,9 +62,7 @@ GitHub: @Amlaach
 ## 🛠️ Technologies
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,html,git,github,linux,rust" />
-
+<img src="https://skillicons.dev/icons?i=python,html,rust,git,github,linux" />
 </p>
 
 ---
@@ -78,33 +70,26 @@ GitHub: @Amlaach
 ## 📊 GitHub Statistics
 
 <p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Amlaach&show_icons=true&hide_border=true" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Amlaach&show_icons=true&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amlaach&layout=compact&hide_border=true" />
-
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amlaach&hide_border=true" />
 </p>
 
 ---
 
-## 💭 Quote
+## 💡 ציטוט אהוב
 
-> "Two things are infinite:
-> the universe and human stupidity;
-> and I'm not sure about the universe."
+> "שני דברים הם אינסופיים: היקום והטיפשות האנושית;
+> לגבי הראשון אני עדיין לא בטוח."
 >
-> — Albert Einstein
+> — אלברט איינשטיין
 
 ---
 
 <div align="center">
 
-### תודה שביקרת בפרופיל שלי
-
-```console
-Amlaach@github:~$ exit
-
-Goodbye 👋
-```
+### תודה שביקרת בפרופיל שלי 🙏
 
 </div>
