@@ -1,65 +1,59 @@
 <div align="center">
 
-# שלום לכם, הגעתם לפרופיל של
+# Welcome to my Profile, I'm
 
 # ✨ המלאך | Amlaach ✨
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=%3E+whoami;%D7%94%D7%9E%D7%9C%D7%90%D7%9A+(Amlaach);%3E+specialization;AI+%7C+LLM+%7C+Semantic+Search;%3E+current+project;Smart+Torah;%3E+status;Building+the+future..." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=%3E+whoami;Amlaach;%3E+specialization;AI+%7C+LLM+%7C+Semantic+Search;%3E+current+project;Smart+Torah;%3E+status;Building+the+future..." />
 
 </div>
 
 ---
 
-## 👋 קצת עליי
+## 👋 About Me
 
-- 🐍 מתמחה ב־Python
-- 🌐 מתמחה ב־HTML
-- 🦀 לומד Rust
-
----
-
-## 🤖 תחומי התמחות
-
-- Large Language Models (LLM)
-- Artificial Intelligence (AI)
-- חיפוש סמנטי (Semantic Search)
-- חיפוש וקטורי (Vector Search)
-- Embeddings
-- Retrieval Systems
+- 🐍 **Python** Specialist
+- 🌐 **HTML** Web Technologies
+- 🦀 **Rust** Enthusiast & Learner
 
 ---
 
-## 🚀 סביבת העבודה שלי
+## 🤖 Areas of Expertise
 
-- משתמש ב־Kaggle לאימון מודלים
-- עוסק בפיתוח וחקירה של מערכות AI מתקדמות
-- מאמין שבינה מלאכותית נועדה להעצים מהנדסי תוכנה ולא להחליף אותם
-
----
-
-## 📖 הפרויקטים שלי
-
-### 🌟 ktext
-
-פרויקט הדגל שלי.
-https://github.com/Amlaach/ktext
-תוכנת עימוד תורנית בקוד פתוח, שמטרתה לספק יכולות עימוד מתקדמות ומודרניות לספרים תורניים מורכבים.
+- **Large Language Models (LLMs)** & Generative AI
+- **Semantic & Vector Search** Engineering
+- **Text Embeddings** & Representation
+- Advanced **Retrieval Systems** (RAG Architectures)
 
 ---
 
-### 🤝 תרומה לקוד פתוח
+## 🚀 Workflow & Philosophy
 
-במקביל אני משתדל לסייע לפרויקט:
-
-### 🚀 Otzaria (אוצריא)
-
-https://github.com/otzaria
-
-בשעות הפנאי, ככל שמתאפשר.
+- Leveraging **Kaggle** and high-compute environments for model training and fine-tuning.
+- Dedicated to researching and developing cutting-edge AI-driven architectures.
+- Believing that AI is designed to **empower and augment** software engineers, not replace them.
 
 ---
 
-## 🛠️ Technologies
+## 📖 Key Projects
+
+### 🌟 [ktext](https://github.com/Amlaach/ktext)
+
+My flagship project. An open-source, advanced typesetting software designed to handle complex layouts, multi-text alignment, and precise automated structuring for traditional rabbinic literature and intricate texts.
+
+---
+
+### 🤝 Open Source Contributions
+
+Proud contributor to the open-source community, actively supporting:
+
+### 🚀 [Otzaria (אוצריא)](https://github.com/otzaria)
+
+An open-source digital library application for Torah texts, contributing enhancements and feature developments in my spare time.
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,html,rust,git,github,linux" />
@@ -79,17 +73,17 @@ https://github.com/otzaria
 
 ---
 
-## 💡 ציטוט אהוב
+## 💡 Favorite Quote
 
-> "שני דברים הם אינסופיים: היקום והטיפשות האנושית;
-> לגבי הראשון אני עדיין לא בטוח."
->
-> — אלברט איינשטיין
+> "Two things are infinite: the universe and human stupidity; 
+> and I'm not sure about the universe."
+> 
+> — *Albert Einstein*
 
 ---
 
 <div align="center">
 
-### תודה שביקרת בפרופיל שלי 🙏
+### Thank you for visiting my profile! 🙏
 
 </div>
