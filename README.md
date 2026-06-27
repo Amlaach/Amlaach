@@ -37,16 +37,6 @@
 
 ## 📖 Key Projects
 
-### 🌟 [ktext](https://github.com/Amlaach/ktext)
-
-My flagship project. An open-source, advanced typesetting software designed to handle complex layouts, multi-text alignment, and precise automated structuring for traditional rabbinic literature and intricate texts.
-
----
-
-### 🤝 Open Source Contributions
-
-Proud contributor to the open-source community, actively supporting:
-
 ### 🚀 [Otzaria (אוצריא)](https://github.com/otzaria)
 
 An open-source digital library application for Torah texts, contributing enhancements and feature developments in my spare time.
