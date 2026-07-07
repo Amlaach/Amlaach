@@ -13,6 +13,8 @@ I build software because working code is more convincing than long discussions.
 * Performance
 * Building things that actually work
 
+* Like less: JavaScript and the Web.
+* 
 ### Current philosophy
 
 > Less hype. More code.
