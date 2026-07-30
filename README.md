@@ -4,4 +4,6 @@
 
 > *Writing Python in the Windows 7 terminal is the perfect combination: your code runs as slowly as the waves in the sea, and your system is old enough to justify the fact that you're still stuck on Python 3.8.*
 
+## https://amlaach.github.io/personal-site/
+
 # 💙 I love blue
