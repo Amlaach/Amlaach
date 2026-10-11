@@ -1,14 +1,10 @@
 <div align="center">
 
-  <img src="hero.gif" alt="AMLAACH - Code That Works" width="100%" />
-
-  <br />
-
   <h1>AMLAACH</h1>
-  <h3><code>SYSTEMS ARCHITECT &bull; LOW-LATENCY INFRASTRUCTURE &bull; APPLIED AI</code></h3>
+  <h3><code>Less hype. More code.</code></h3>
 
   <p>
-    <em>"Architecting deterministic, zero-allocation engines and high-throughput systems."</em>
+    <em>&ldquo;Bringing code that works to a world full of broken ideas&rdquo;</em>
   </p>
 
   <p>
@@ -16,122 +12,113 @@
       <img src="https://img.shields.io/badge/Portfolio-amlaach.github.io-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
     </a>
     <a href="https://github.com/Amlaach">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-Amlaach-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
     <a href="https://github.com/Amlaach?tab=repositories">
-      <img src="https://img.shields.io/badge/Repositories-13+-0284c7?style=for-the-badge&logo=git&logoColor=white" alt="Repos" />
+      <img src="https://img.shields.io/badge/Repositories-15+-8b5cf6?style=for-the-badge&logo=git&logoColor=white" alt="Repos" />
     </a>
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
-    <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white" alt="C" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/ECS-Data--Oriented-0284c7?style=flat-square" alt="Data Oriented" />
-    <img src="https://img.shields.io/badge/Inference-CPU--Optimized-38bdf8?style=flat-square" alt="LLM Engine" />
-    <img src="https://img.shields.io/badge/Zero--Allocation-Deterministic-0369a1?style=flat-square" alt="Zero Allocation" />
   </p>
 
 </div>
 
 ---
 
-### 🏛️ Engineering Philosophy
-
-> **Precision over presumption. Mechanical sympathy over abstraction.**  
-> Designing software at the intersection of bare-metal efficiency and scalable distributed intelligence. Focused on cache-friendly data structures, zero-overhead execution paths, and autonomous decision systems.
-
-```ascii
-[ Input Stream ] ---> | HDDE Core Decision | ---> [ Dynamic Expert Routing ] ---> [ Sub-ms Execution ]
-                             |
-                   +---------+---------+
-                   | Zero-Alloc Memory |
-                   +-------------------+
-```
-
----
-
-### ⚡ Key Architectural Highlights
+### 💻 Core Specialization
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h4>🚀 High-Performance Systems & SIMD</h4>
-      <ul>
-        <li><strong>Data-Oriented Design (DOD / ECS):</strong> Eliminating pointer chasing, structuring cache-coherent memory layouts.</li>
-        <li><strong>Zero-Allocation Architectures:</strong> Predictable frame budgets, arena allocators, low-overhead runtimes.</li>
-        <li><strong>Bare-Metal C & Rust:</strong> Direct hardware engagement, SIMD acceleration, and multi-threaded throughput.</li>
-      </ul>
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/1.%20Rust-%23DEA584.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" /><br />
+      <strong>Primary Domain</strong><br />
+      <sub>High performance, memory safety, zero-cost abstractions & systems programming</sub>
     </td>
-    <td width="50%" valign="top">
-      <h4>🧠 Autonomous Systems & AI Engines</h4>
-      <ul>
-        <li><strong>Hierarchical Decision Engines (HDDE):</strong> Utility AI, latency-aware propagation across massive agent fleets.</li>
-        <li><strong>CPU-Optimized Inference:</strong> Highly specialized quantized matrix operations & compute graph scheduling.</li>
-        <li><strong>Vector & Semantic Retrieval:</strong> Millisecond-latency dense indexing, embeddings, and intelligent agents.</li>
-      </ul>
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/2.%20Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" /><br />
+      <strong>Secondary Domain</strong><br />
+      <sub>AI orchestration, automation scripts, agents, rapid prototyping & tooling</sub>
     </td>
-  </tr>
-</table>
-
----
-
-### 🔬 Flagship Projects
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/Amlaach/HDDE-A-Zero-Allocation-Hierarchical-Utility-Architecture">HDDE Architecture</a></h3>
-      <p><em>Zero-Allocation Hierarchical Decision Engine (Rust)</em></p>
-      <p>A high-performance decision engine for games & large simulations. Fuses Utility AI, A-Life, hierarchical command propagation, and data-oriented ECS into a scalable architecture driving thousands of autonomous entities with deterministic behavior.</p>
-      <code>Rust</code> &bull; <code>ECS</code> &bull; <code>Utility AI</code> &bull; <code>Zero Allocation</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧠 <a href="https://github.com/Amlaach/project-zero">Project Zero</a></h3>
-      <p><em>Bare-Metal CPU-Optimized LLM Inference (C)</em></p>
-      <p>Custom-built inference engine designed from first principles in pure C. Optimized for modern CPU architectures with SIMD instructions, minimal footprint, and zero dependency overhead.</p>
-      <code>C</code> &bull; <code>SIMD</code> &bull; <code>Deep Learning</code> &bull; <code>Low-Level Compute</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔍 <a href="https://github.com/Amlaach/otzaria-semantic-search">Otzaria Semantic Search</a></h3>
-      <p><em>Next-Gen Vector & Semantic Retrieval Engine (Rust)</em></p>
-      <p>Advanced vector search backend delivering instant semantic lookup over extensive corpora, combining dense embeddings with high-throughput indexing algorithms.</p>
-      <code>Rust</code> &bull; <code>Vector Search</code> &bull; <code>NLP</code> &bull; <code>Embeddings</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/Amlaach/SmartiAI-Agent-for-Windows">SmartiAI Agent</a></h3>
-      <p><em>Autonomous Windows Operating Agent (Python)</em></p>
-      <p>A lightweight, autonomous agent framework for Windows. Features system orchestration, protocol tooling, Model Context Protocol (MCP), and extensible autonomous execution.</p>
-      <code>Python</code> &bull; <code>Autonomous Agents</code> &bull; <code>MCP</code> &bull; <code>System Automation</code>
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/3.%20Web%20Technologies-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="Web" /><br />
+      <strong>Third Domain</strong><br />
+      <sub>Modern UI, TypeScript, Electron, interactive frontends & web systems</sub>
     </td>
   </tr>
 </table>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Rust-CE4111?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
+</p>
+
 ---
-
-### 🛠️ Core Technology Matrix
-
-```yaml
-Core Systems:        [ Rust, C, Modern C++, Data-Oriented ECS, SIMD, Multi-threading ]
-Autonomous / AI:     [ Hierarchical Utility AI, LLM Inference Engines, MCP, Multi-Agent Systems ]
-Information Engines: [ Vector Search, Dense Embeddings, Information Retrieval, High-Throughput Search ]
-Platforms & Tools:   [ Linux / Windows Internals, Git, CMake / Cargo, Asynchronous Pipelines ]
-```
-
----
-
-### 📊 Telemetry & Systems Status
 
 <div align="center">
+
+> *"Humans were creating unmaintainable spaghetti code long before AI existed; blaming AI is just unfair."*
+
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <h3>📖 <a href="https://github.com/Amlaach/typesetok">TypesetOK</a></h3>
+      <p><em>Professional Desktop Publishing & Typesetting Software</em></p>
+      <p>A true desktop publishing (DTP) software built from the ground up for precise document layout, complex multi-stream flows, typography shaping (including full RTL & Hebrew vocalization/nikkud support), and reproducible PDF generation.</p>
+      <img src="https://img.shields.io/badge/Rust-%23DEA584.svg?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+      <img src="https://img.shields.io/badge/Desktop%20Publishing-0284c7?style=flat-square" alt="DTP" />
+      <img src="https://img.shields.io/badge/Typography-10b981?style=flat-square" alt="Typography" />
+      <img src="https://img.shields.io/badge/PDF%20Engine-f43f5e?style=flat-square" alt="PDF" />
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top">
+      <h3>🕹️ <a href="https://github.com/Amlaach/HDDE-A-Zero-Allocation-Hierarchical-Utility-Architecture">HDDE Architecture</a> <small><code>[Spare-Time / Research]</code></small></h3>
+      <p><em>Zero-Allocation Hierarchical Decision Engine</em></p>
+      <p>Developed as a passion project exploring low-latency artificial life and simulation intelligence. Fuses Utility AI, hierarchical command propagation, and cache-coherent data-oriented ECS into a zero-allocation architecture running thousands of autonomous agents with deterministic predictability.</p>
+      <img src="https://img.shields.io/badge/Rust-%23DEA584.svg?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+      <img src="https://img.shields.io/badge/Spare--Time-f59e0b?style=flat-square" alt="Spare-Time" />
+      <img src="https://img.shields.io/badge/Zero--Allocation-8b5cf6?style=flat-square" alt="Zero-Allocation" />
+      <img src="https://img.shields.io/badge/Utility%20AI-06b6d4?style=flat-square" alt="Utility AI" />
+      <img src="https://img.shields.io/badge/ECS-ec4899?style=flat-square" alt="ECS" />
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top">
+      <h3>🔍 <a href="https://github.com/Amlaach/otzaria-semantic-search">Otzaria Semantic Search</a></h3>
+      <p><em>Vector & Semantic Retrieval Engine</em></p>
+      <p>Advanced vector search backend and retrieval pipeline delivering instant semantic lookup over extensive textual corpora. Combines high-density vector embeddings with fast nearest-neighbor indexing for deep information discovery.</p>
+      <img src="https://img.shields.io/badge/Rust-%23DEA584.svg?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+      <img src="https://img.shields.io/badge/Vector%20Search-3b82f6?style=flat-square" alt="Vector Search" />
+      <img src="https://img.shields.io/badge/Semantic%20Retrieval-14b8a6?style=flat-square" alt="Semantic Retrieval" />
+      <img src="https://img.shields.io/badge/NLP%20%2F%20Embeddings-a855f7?style=flat-square" alt="Embeddings" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+
+  <img src="hero.gif" alt="AMLAACH - Less Hype. More Code." width="100%" />
+
+  <br /><br />
+
   <img src="https://github-readme-stats.vercel.app/api?username=Amlaach&show_icons=true&theme=radical&hide_border=true&bg_color=0B0F17&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" height="150" alt="GitHub Stats" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amlaach&layout=compact&theme=radical&hide_border=true&bg_color=0B0F17&title_color=38BDF8&text_color=94A3B8" height="150" alt="Top Languages" />
-</div>
 
-<br />
+  <br /><br />
+  <sub>Less hype. More code. &bull; <b>Bringing code that works to a world full of broken ideas.</b></sub>
 
-<div align="center">
-  <sub>Designed with precision &bull; Driven by algorithms &bull; <b>Code That Works.</b></sub>
 </div>
