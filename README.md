@@ -23,7 +23,7 @@
 
 ---
 
-### 💻 Core Specialization
+### Core Specialization
 
 <table>
   <tr>
@@ -67,7 +67,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <table>
   <tr>
