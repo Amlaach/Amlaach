@@ -72,7 +72,7 @@
 <table>
   <tr>
     <td width="100%" valign="top">
-      <h3>📖 <a href="https://github.com/Amlaach/typesetok">TypesetOK</a></h3>
+      <h3> <a href="https://github.com/Amlaach/typesetok">TypesetOK</a></h3>
       <p><em>Professional Desktop Publishing & Typesetting Software</em></p>
       <p>A true desktop publishing (DTP) software built from the ground up for precise document layout, complex multi-stream flows, typography shaping (including full RTL & Hebrew vocalization/nikkud support), and reproducible PDF generation.</p>
       <img src="https://img.shields.io/badge/Rust-%23DEA584.svg?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
@@ -83,7 +83,7 @@
   </tr>
   <tr>
     <td width="100%" valign="top">
-      <h3>🕹️ <a href="https://github.com/Amlaach/HDDE-A-Zero-Allocation-Hierarchical-Utility-Architecture">HDDE Architecture</a> <small><code>[Spare-Time / Research]</code></small></h3>
+      <h3> <a href="https://github.com/Amlaach/HDDE-A-Zero-Allocation-Hierarchical-Utility-Architecture">HDDE Architecture</a> <small><code>[Spare-Time / Research]</code></small></h3>
       <p><em>Zero-Allocation Hierarchical Decision Engine</em></p>
       <p>Developed as a passion project exploring low-latency artificial life and simulation intelligence. Fuses Utility AI, hierarchical command propagation, and cache-coherent data-oriented ECS into a zero-allocation architecture running thousands of autonomous agents with deterministic predictability.</p>
       <img src="https://img.shields.io/badge/Rust-%23DEA584.svg?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
@@ -95,7 +95,7 @@
   </tr>
   <tr>
     <td width="100%" valign="top">
-      <h3>🔍 <a href="https://github.com/Amlaach/otzaria-semantic-search">Otzaria Semantic Search</a></h3>
+      <h3> <a href="https://github.com/Amlaach/otzaria-semantic-search">Otzaria Semantic Search</a></h3>
       <p><em>Vector & Semantic Retrieval Engine</em></p>
       <p>Advanced vector search backend and retrieval pipeline delivering instant semantic lookup over extensive textual corpora. Combines high-density vector embeddings with fast nearest-neighbor indexing for deep information discovery.</p>
       <img src="https://img.shields.io/badge/Rust-%23DEA584.svg?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
